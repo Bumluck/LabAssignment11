@@ -289,8 +289,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dced418526b116049808337d31ed6adb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Task2
-  toggleTask: 0
-  initialNames: 0
+  toggleTask: 1
+  initialNames: 15
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
